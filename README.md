@@ -1,2 +1,2 @@
-# C
-Study C++
+# CPP
+Study CPP
